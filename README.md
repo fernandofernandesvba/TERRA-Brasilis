@@ -3,11 +3,6 @@
 
 ---
 
-![Animated preview of our story — "From Waste to Forest"](./media/terra_brasilis_preview.gif)
-> 🎞️ *Animated preview from our final submission video — inspired by the real orange peel experiment in Costa Rica.*
-
----
-
 ## 🚀 Our Vision
 What if we could turn millions of tons of agricultural waste into thriving new forests?  
 That’s the question that drove our project. **TERRA Brasilis** is our answer: a scalable, data-driven framework that does just that.  
