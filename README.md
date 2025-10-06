@@ -25,7 +25,7 @@ Our submission for the **NASA Space Apps Challenge 2025** includes two complemen
 
 ### 🎞️ Official Short Pitch (30 seconds)
 The quick introduction used for NASA’s submission form — a dynamic and engaging teaser of our project.  
-👉 [Watch the 30-second presentation video (YouTube)](https://youtu.be/SEU_LINK_CURTO_AQUI)
+👉 [Watch the 30-second presentation video (YouTube)](https://youtu.be/8nJAkhDWx60)
 
 ---
 
