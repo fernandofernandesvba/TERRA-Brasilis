@@ -33,7 +33,7 @@ The quick introduction used for NASA’s submission form — a dynamic and engag
 Our main deliverable: a **2.5-minute animated short film** that tells the inspiring story of how agricultural waste — like orange peels and coffee pulp — can help regenerate degraded lands in Brazil, with NASA’s Terra satellite data guiding the way.
 
 🎥 **Watch the full animation here:**  
-👉 [🔗 *From Waste to Forest — Official Project Video (YouTube)*](https://youtu.be/SEU_LINK_COMPLETO_AQUI)
+👉 [🔗 *Project Terra Brasilis — Official Project Video (YouTube)*](https://youtu.be/-LRZmxc5rNE)
 
 ---
 
