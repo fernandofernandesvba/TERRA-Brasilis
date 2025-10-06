@@ -145,3 +145,16 @@ Example: *YouTube* — “How 12,000 tonnes of orange peel revived a Costa Rican
 - Worldview - Explore Your Dynamic Planet: https://worldview.earthdata.nasa.gov  
 - Vegetation Index: https://neo.gsfc.nasa.gov/view.php?datasetId=MOD_NDVI_M&year=2017  
 - Earth Observatory: https://earthobservatory.nasa.gov  
+
+**Additional media used in the final animation (YouTube excerpts):**
+- https://www.youtube.com/watch?v=IScVqEKy0J8  
+- https://www.youtube.com/watch?v=C2uyjRGwwOs  
+- https://www.youtube.com/watch?v=oOAFp0fZzDo  
+
+**AI tools referenced/used:**
+- Nano-Banana — https://aistudio.google.com/  
+- Google Gemini
+- OpenAI ChatGPT  
+- VEO2 / VEO3 — https://labs.google/fx  
+- lmarena.ai  
+- lovart.ai  
